@@ -7,16 +7,20 @@ Currently, I'm open to new opportunities in roles such as Software Engineer, .ne
 
 ### 📚 Projects
 
-You can take a look at my projects in my portfolio [here](https://github.com/KyleWong613/KJSite/blob/main/README.md).
-	
+You can take a look at my projects in my portfolio here:
+
+💻 **[Portfolio](https://github.com/KyleWong613/KJSite/blob/main/README.md)**
 
 
 ### 🛠️ Tools
 
-Programming: C#, Python, Javascript
-Database:  MySQL, SQL Server, Snowflake, SAP Hana
+- Programming: C#, Python, Javascript
+- Web: 
+- Database:  MySQL, SQL Server, Snowflake, SAP Hana
+- 
 
 
+[![Kyle's github stats](https://github-readme-stats.vercel.app/api?username=kylewong613&count_private=true&show_icons=true&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
