@@ -7,9 +7,7 @@ Currently, I'm open to new opportunities in roles such as Software Engineer, .ne
 
 ### 📚 Projects
 
-You can take a look at my projects in my portfolio here:
-
-💻 **[Portfolio](https://github.com/KyleWong613/KJSite/blob/main/README.md)**
+You can take a look at my projects in my portfolio here: 💻 **[Portfolio](https://github.com/KyleWong613/KJSite/blob/main/README.md)**
 
 
 ### 🛠️ Tools
