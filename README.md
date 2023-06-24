@@ -1,6 +1,6 @@
 ### 🙋‍♂️ Hi there, I'm Kyle, a Software Engineer with a background in Ecommerce and Manufacturing Applications. 
 
-As a Software Engineer, I have developed over 10 different applications and have written detailed documentation on how they work.
+As a Software Engineer, I have developed over 10 different applications ranging from web applications, mobile apps, and ETL. 
 Currently, I'm open to new opportunities in roles such as Software Engineer, .net Developer, SQL Developer, and FrontEnd Engineer.
 
 
@@ -8,11 +8,19 @@ Currently, I'm open to new opportunities in roles such as Software Engineer, .ne
 
 You can take a look at my projects in my portfolio here: 💻 **[Portfolio](https://github.com/KyleWong613/KJSite/blob/main/README.md)**
 
+### 👯 Collaboration
+
+I have collaborated with Multiple companies on my project, such as:
+- [Adobe Experience Cloud](https://business.adobe.com/sg/products/experience-manager/adobe-experience-manager.html)
+- [Finexus Group](https://www.finexusgroup.com/) 
+- [VMS Solutions](https://www.vms-solutions.com/en/index.php)
+- [Resorts World Genting](https://www.rwgenting.com/)
+
 
 ### 🛠️ Tools
 
 - Programming: C#, Python, PHP
-- Web: Javascript, JQuery, AngularJS, VueJS, NextJS
+- Web: Javascript, JQuery, HTML5, AngularJS, VueJS, NextJS
 - Database:  MySQL, SQL Server, Snowflake, SAP Hana
 
 
