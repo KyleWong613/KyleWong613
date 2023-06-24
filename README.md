@@ -20,8 +20,11 @@ I have collaborated with Multiple companies on my projects, such as:
 
 - Programming: C#, Python, PHP
 - Web: Javascript, JQuery, HTML5, AngularJS, VueJS, NextJS
-- Database:  MySQL, SQL Server, Snowflake, SAP Hana
+- Database: SQL Server, MySQL, Snowflake, SAP Hana
 
+### 📫 Contact
+- Linkedin: [wong-kai-jeng](https://www.linkedin.com/in/wong-kai-jeng/)
+- Gmail: kaijengre2@gmail.com
 
 [![Kyle's github stats](https://github-readme-stats.vercel.app/api?username=kylewong613&count_private=true&show_icons=true&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
