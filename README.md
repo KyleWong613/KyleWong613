@@ -1,7 +1,6 @@
 ### 🙋‍♂️ Hi there, I'm Kyle, a Software Engineer with a background in Ecommerce and Manufacturing Applications. 
 
 As a Software Engineer, I have developed over 10 different applications and have written detailed documentation on how they work.
-
 Currently, I'm open to new opportunities in roles such as Software Engineer, .net Developer, SQL Developer, and FrontEnd Engineer.
 
 
@@ -12,10 +11,9 @@ You can take a look at my projects in my portfolio here: 💻 **[Portfolio](http
 
 ### 🛠️ Tools
 
-- Programming: C#, Python, Javascript
-- Web: 
+- Programming: C#, Python, PHP
+- Web: Javascript, JQuery, AngularJS, VueJS, NextJS
 - Database:  MySQL, SQL Server, Snowflake, SAP Hana
-- 
 
 
 [![Kyle's github stats](https://github-readme-stats.vercel.app/api?username=kylewong613&count_private=true&show_icons=true&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
