@@ -10,12 +10,11 @@ You can take a look at my projects in my portfolio here: 💻 **[Portfolio](http
 
 ### 👯 Collaboration
 
-I have collaborated with Multiple companies on my project, such as:
+I have collaborated with Multiple companies on my projects, such as:
 - [Adobe Experience Cloud](https://business.adobe.com/sg/products/experience-manager/adobe-experience-manager.html)
 - [Finexus Group](https://www.finexusgroup.com/) 
 - [VMS Solutions](https://www.vms-solutions.com/en/index.php)
 - [Resorts World Genting](https://www.rwgenting.com/)
-
 
 ### 🛠️ Tools
 
