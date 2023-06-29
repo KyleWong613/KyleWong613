@@ -1,9 +1,9 @@
-### 🙋‍♂️ Hi there, I'm Kyle, a Software Engineer with a background in Ecommerce and Manufacturing Applications. 
+# 🙋‍♂️ Hi there, I'm Kyle, a Software Engineer with a background in Ecommerce and Manufacturing Applications. 
 
 As a Software Engineer, I have developed over 10 different applications ranging from web applications, mobile apps, and ETL. 
 Currently, I'm open to new opportunities in roles such as Software Engineer, .net Developer, SQL Developer, and FrontEnd Engineer.
 
-[![Linkedin Badge](https://img.shields.io/badge/-wkj-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wong-kai-jeng/)](https://www.linkedin.com/in/wong-kai-jeng/)
+[![Linkedin Badge](https://img.shields.io/badge/-kai-jeng-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wong-kai-jeng/)](https://www.linkedin.com/in/wong-kai-jeng/)
 
 
 ### 📚 Projects
