@@ -1,6 +1,6 @@
 # 🙋‍♂️ Hi there, I'm Kyle, a Software Engineer with a background in Ecommerce and Manufacturing Applications. 
 
-As a Software Engineer, I have developed over 10 different applications ranging from web applications, mobile apps, and ETL. 
+As a Software Engineer, I have developed multiple applications ranging from web applications, mobile apps, and ETL. 
 Currently, I'm open to new opportunities in roles such as Software Engineer, .net Developer, SQL Developer, and FrontEnd Engineer.
 
 
@@ -20,8 +20,8 @@ I have collaborated with Multiple companies on my projects, such as:
 ### 🛠️ Tools
 
 - Programming: C#, Python, PHP
-- Web: Javascript, JQuery, HTML5, AngularJS, VueJS, NextJS
-- Database: SQL Server, MySQL, Snowflake, SAP Hana
+- Web: Javascript, JQuery, HTML5, Angular, Vue, Next
+- Database: SQL Server, MySQL, Snowflake
 
 ### 📫 Contact
 - Linkedin: [wong-kai-jeng](https://www.linkedin.com/in/wong-kai-jeng/)
