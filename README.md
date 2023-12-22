@@ -1,7 +1,7 @@
 # 🙋‍♂️ Hi there, I'm Kyle
 
 As a Software Engineer, I have developed multiple applications ranging from web applications, mobile apps, and ETL. 
-Currently, I'm open to new opportunities in roles such as Software Engineer, .net Developer, SQL Developer, and FrontEnd Engineer.
+Currently, I'm open to new opportunities in Software Engineer roles.
 
 
 
