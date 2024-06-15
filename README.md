@@ -12,10 +12,15 @@ Take a look at my projects in my portfolio: 💻 **[Portfolio](https://github.co
 ### 👯 Collaboration
 
 I have collaborated with Multiple companies on my projects, such as:
+- [Resorts World Genting](https://www.rwgenting.com/)
 - [Adobe Experience Cloud](https://business.adobe.com/sg/products/experience-manager/adobe-experience-manager.html)
+- [Aldan Technology](https://www.aldantechnology.com/products--solutions.html)
+      [Genting Hotel Self Check-in Kiosk](https://www.aldantechnology.com/uploads/1/4/8/3/148341329/c.jpg)
+      [Aeon Credit Biometric Tablet]
+- [TESS International](https://www.tessinternational.com/)
 - [Finexus Group](https://www.finexusgroup.com/) 
 - [VMS Solutions](https://www.vms-solutions.com/en/index.php)
-- [Resorts World Genting](https://www.rwgenting.com/)
+
 
 ### 🛠️ Tools
 
