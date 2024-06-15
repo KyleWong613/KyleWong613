@@ -16,7 +16,7 @@ I have collaborated with Multiple companies on my projects, such as:
 - [Adobe Experience Cloud](https://business.adobe.com/sg/products/experience-manager/adobe-experience-manager.html)
 - [Aldan Technology](https://www.aldantechnology.com/products--solutions.html)
       [Genting Hotel Self Check-in Kiosk](https://www.aldantechnology.com/uploads/1/4/8/3/148341329/c.jpg)
-      [Aeon Credit Biometric Tablet]
+      [Aeon Credit Biometric Tablet](https://www.aldantechnology.com/uploads/1/4/8/3/148341329/recardingkiosk_orig.png)
 - [TESS International](https://www.tessinternational.com/)
 - [Finexus Group](https://www.finexusgroup.com/) 
 - [VMS Solutions](https://www.vms-solutions.com/en/index.php)
