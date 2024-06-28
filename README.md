@@ -29,7 +29,7 @@ I have collaborated with Multiple companies on my projects, such as:
 - Database: SQL Server, MySQL, Snowflake
 
 ### 📫 Contact
-- Linkedin: [wong-kai-jeng](https://www.linkedin.com/in/wong-kai-jeng/)
+- LinkedIn: [wong-kai-jeng](https://www.linkedin.com/in/wong-kai-jeng/)
 - Gmail: kaijengre2@gmail.com
 
 [![Kyle's github stats](https://github-readme-stats.vercel.app/api?username=kylewong613&count_private=true&show_icons=true&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
