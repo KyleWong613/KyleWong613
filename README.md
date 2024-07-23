@@ -9,6 +9,10 @@ Currently, I'm open to new opportunities in Software Engineer roles.
 
 Take a look at my portfolio: 💻 **[Portfolio](https://github.com/KyleWong613/KJSite/blob/main/README.md)**
 
+[![Kyle's github stats](https://github-readme-stats.vercel.app/api?username=kylewong613&count_private=true&show_icons=true&show=&theme=catppuccin_latte&hide=issues&line_height=24)](https://github.com/anuraghazra/github-readme-stats) 
+[![Kyle's Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KyleWong613&layout=compact&theme=catppuccin_latte&line_height=25)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### 👯 Collaboration
 
 I have collaborated with Multiple companies on my projects, such as:
@@ -31,9 +35,6 @@ I have collaborated with Multiple companies on my projects, such as:
 ### 📫 Contact
 - LinkedIn: [kai-jeng](https://www.linkedin.com/in/wong-kai-jeng/)
 - Gmail: kaijengre2@gmail.com
-
-[![Kyle's github stats](https://github-readme-stats.vercel.app/api?username=kylewong613&count_private=true&show_icons=true&show=&theme=catppuccin_latte&hide=issues&line_height=24)](https://github.com/anuraghazra/github-readme-stats) 
-[![Kyle's Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KyleWong613&layout=compact&theme=catppuccin_latte&line_height=25)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **KyleWong613/KyleWong613** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
