@@ -32,7 +32,7 @@ I have collaborated with Multiple companies on my projects, such as:
 - LinkedIn: [kai-jeng](https://www.linkedin.com/in/wong-kai-jeng/)
 - Gmail: kaijengre2@gmail.com
 
-[![Kyle's github stats](https://github-readme-stats.vercel.app/api?username=kylewong613&count_private=true&show_icons=true&show=&hide=issues)](https://github.com/anuraghazra/github-readme-stats) 
+[![Kyle's github stats](https://github-readme-stats.vercel.app/api?username=kylewong613&count_private=true&show_icons=true&show=&hide=issues&line_height=20)](https://github.com/anuraghazra/github-readme-stats) 
 [![Kyle's Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KyleWong613&layout=compact)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
 
 <!--
