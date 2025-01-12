@@ -1,13 +1,12 @@
 # 🙋‍♂️ Hi there, I'm Kyle
 
-I have developed various applications ranging from web applications, mobile apps, and ETL. 
-Currently, I'm open to new opportunities in Software Engineer roles.
-
+I have developed a diverse range of applications, including web applications, mobile apps, and ETL solutions. 
+I am currently seeking new opportunities in Software Engineering roles where I can leverage my skills and experience to contribute to innovative projects.
 
 
 ### 📚 Projects
 
-Take a look at my portfolio: 💻 **[Portfolio](https://github.com/KyleWong613/KJSite/blob/main/README.md)**
+Please feel free to explore my portfolio: 💻 **[Portfolio](https://github.com/KyleWong613/KJSite/blob/main/README.md)**
 
 [![Kyle's github stats](https://github-readme-stats.vercel.app/api?username=kylewong613&count_private=true&show_icons=true&show=&theme=catppuccin_latte&hide=issues,contribs&line_height=24)](https://github.com/anuraghazra/github-readme-stats) 
 [![Kyle's Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KyleWong613&layout=compact&theme=catppuccin_latte&line_height=25)](https://github.com/anuraghazra/github-readme-stats)
@@ -15,7 +14,7 @@ Take a look at my portfolio: 💻 **[Portfolio](https://github.com/KyleWong613/K
 
 ### 👯 Collaboration
 
-I have collaborated with Multiple companies on my projects, such as:
+I have had the opportunity to collaborate with several companies on various projects, including:
 - [Resorts World Genting](https://www.rwgenting.com/)
 - [Adobe Experience Cloud](https://business.adobe.com/sg/products/experience-manager/adobe-experience-manager.html)
 - [Aldan](https://www.aldantechnology.com/products--solutions.html)
