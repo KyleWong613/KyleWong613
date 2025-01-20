@@ -16,6 +16,7 @@ Please feel free to explore my portfolio: 💻 **[Portfolio](https://github.com/
 
 I have had the opportunity to collaborate with several companies on various projects, including:
 - [Resorts World Genting](https://www.rwgenting.com/)
+- [RWG Migrate to Adobe Improves digital experiences for guests](https://business.adobe.com/customer-success-stories/genting-malaysia-case-study.html)
 - [Adobe Experience Cloud](https://business.adobe.com/sg/products/experience-manager/adobe-experience-manager.html)
 - [Aldan](https://www.aldantechnology.com/products--solutions.html)
       [Genting Hotel Self Check-in Kiosk](https://www.aldantechnology.com/uploads/1/4/8/3/148341329/c.jpg)
