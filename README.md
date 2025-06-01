@@ -33,7 +33,7 @@ I've been fortunate to collaborate with a range of companies on diverse and impa
 
 - Programming: ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat-square), ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square), PHP
 - Web: ![JavaScript](https://img.shields.io/badge/JavaScript-yellow), JQuery, HTML5, Angular, Vue, Next
-- Database: ![SQL Server](https://img.shields.io/badge/SQL_Server-2019-blue)
+- Database: ![SQL Server](https://img.shields.io/badge/SQL_Server-blue?logo=microsoftsqlserver)
 , MySQL, Snowflake
 
 
