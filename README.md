@@ -16,7 +16,7 @@ Take a look at my featured work below, or check out the full list on my portfoli
 
 ### 👯 Collaboration
 
-I have had the opportunity to collaborate with several companies on various projects, including:
+I've been fortunate to collaborate with a range of companies on diverse and impactful projects, including:
 - [Resorts World Genting](https://www.rwgenting.com/)
 - [RWG Migrate to Adobe Improves digital experiences for guests](https://business.adobe.com/customer-success-stories/genting-malaysia-case-study.html)
 - [Adobe Experience Cloud](https://business.adobe.com/sg/products/experience-manager/adobe-experience-manager.html)
