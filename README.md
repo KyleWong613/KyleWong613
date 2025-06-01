@@ -9,13 +9,11 @@ I am currently seeking new opportunities in Software Engineering roles where I c
 Take a look at my featured work below, or check out the full list on my portfolio:
 
 🔗 **Portfolio**: 💻 **[Portfolio](https://github.com/KyleWong613/KJSite/blob/main/README.md)**
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kylewong613&count_private=true&show_icons=true&theme=catppuccin_latte&hide=issues,contribs&line_height=24" height="180">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyleWong613&layout=compact&theme=catppuccin_latte&line_height=25" height="180">
 </p>
-[![Kyle's github stats](https://github-readme-stats.vercel.app/api?username=kylewong613&count_private=true&show_icons=true&show=&theme=catppuccin_latte&hide=issues,contribs&line_height=24)](https://github.com/anuraghazra/github-readme-stats) 
-[![Kyle's Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KyleWong613&layout=compact&theme=catppuccin_latte&line_height=25)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ### 👯 Collaboration
 
@@ -33,9 +31,12 @@ I've been fortunate to collaborate with a range of companies on diverse and impa
 
 ### 🛠️ Tools
 
-- Programming: C#, Python, PHP
-- Web: Javascript, JQuery, HTML5, Angular, Vue, Next
-- Database: SQL Server, MySQL, Snowflake
+- Programming: ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat-square), ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square), PHP
+- Web: ![JavaScript](https://img.shields.io/badge/JavaScript-yellow), JQuery, HTML5, Angular, Vue, Next
+- Database: ![SQL Server](https://img.shields.io/badge/SQL_Server-2019-blue)
+, MySQL, Snowflake
+
+
 
 ### 📫 Contact
 - LinkedIn: [kai-jeng](https://www.linkedin.com/in/wong-kai-jeng/)
