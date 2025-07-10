@@ -39,7 +39,7 @@ I've been fortunate to collaborate with a range of companies on diverse and impa
 
 
 ### 📫 Contact
-- LinkedIn: [kai-jeng](https://www.linkedin.com/in/wong-kai-jeng/)
+- LinkedIn: [wong-kai-jeng](https://www.linkedin.com/in/wong-kai-jeng/)
 - Gmail: kaijengre2@gmail.com
 
 <!--
