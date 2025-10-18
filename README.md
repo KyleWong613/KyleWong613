@@ -4,16 +4,29 @@ I have developed a diverse range of applications, including web applications, mo
 I am currently seeking new opportunities in Software Engineering roles where I can leverage my skills and experience to contribute to innovative projects.
 
 
-### 📚 Projects
+### 📚 Project portfolio
 
-Take a look at my featured work below, or check out the full list on my portfolio:
+Take a look at my Portfolio below, or check out the full list on my portfolio:
+<p align="left">
+  <a href="https://linkedin.com/in/wong-kai-jeng" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cassteow" height="30" width="40" />
+  </a>
+  <a href="https://github.com/KyleWong613/KJSite/blob/main/README.md"></a>
+</p>
 
-🔗 **Portfolio**: 💻 **[Portfolio](https://github.com/KyleWong613/KJSite/blob/main/README.md)**
+
+<h3 align="left">LinkedIn:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/cassteow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cassteow" height="30" width="40" /></a>
+</p>
+<h3 align="left">Portfolio:</h3>
+🔗 ****: 💻 **[Portfolio](https://github.com/KyleWong613/KJSite/blob/main/README.md)**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kylewong613&count_private=true&show_icons=true&theme=catppuccin_latte&hide=issues,contribs&line_height=24" height="180">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyleWong613&layout=compact&theme=catppuccin_latte&line_height=25" height="180">
 </p>
+
 
 ### 👯 Collaboration
 
