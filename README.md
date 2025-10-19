@@ -11,8 +11,11 @@ Take a look at my Portfolio below, or check out the full list on my portfolio:
   <a href="https://linkedin.com/in/wong-kai-jeng" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kai-jeng" height="30" width="40" />
   </a>
+  <a href="mailto:kaijengre2@gmail.com" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/maildotru.svg" alt="email" height="30" width="40" />
+  </a>
   <a href="https://github.com/KyleWong613/KJSite/blob/main/README.md" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+    <img align="center" src="https://www.svgrepo.com/download/12869/portfolio-outline-symbol.svg" height="30" width="40" />
   </a>
   <a href="https://github.com/KyleWong613/KJSite/blob/main/README.md"></a>
 </p>
@@ -46,9 +49,7 @@ I've been fortunate to collaborate with a range of companies on diverse and impa
 
 
 
-### 📫 Contact
-- LinkedIn: [wong-kai-jeng](https://www.linkedin.com/in/wong-kai-jeng/)
-- Gmail: kaijengre2@gmail.com
+
 
 <!--
 **KyleWong613/KyleWong613** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
